@@ -4,7 +4,7 @@ clc; clear all;
 payload = single(0.4);
 
 % Set number of covers
-numCover = 10000;
+numCover = 5;
 
 % Start embedding
 embedStart = tic;
